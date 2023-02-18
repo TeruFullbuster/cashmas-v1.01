@@ -1,4 +1,4 @@
-
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 	<ul class="menu" id="menu">
 		<li id="inicio" onclick="window.location.href='inicio.php'">
 			<img src="../img/menu-inicio1.svg" > Inicio

@@ -1,0 +1,23 @@
+{
+  "name": "cashmas-v1.01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeruFullbuster/cashmas-v1.01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeruFullbuster/cashmas-v1.01/issues"
+  },
+  "homepage": "https://github.com/TeruFullbuster/cashmas-v1.01#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}

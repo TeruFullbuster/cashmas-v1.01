@@ -12,6 +12,7 @@
 	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
+
 <body>
 	<section class="sec-center">
 		<img src="img/cashmas-logo.svg" alt="logo cashmas" class="img-center">
